@@ -1,0 +1,89 @@
+h1{
+	font-size: 60px;
+	background-color: darkred ;
+	border : solid 5px ;
+	border-radius: 30px;
+	padding: 15px 20px 15px 15px;
+	color: black;
+	text-align: center;
+}
+
+body {
+	font-family: system-ui; 
+	background-color: darkred;
+	color:whitesmoke;
+}
+p {
+	text-align: center;
+	font-size: 30px;
+
+}
+
+img {
+	width: 1024px;
+	height: 576px;
+	text-align: center;
+	border: solid;
+	border-radius: 30px 150px 30px 150px;
+	margin: 20px 20px;
+	display: block;
+    margin: auto;
+}
+h2 {
+	font-size: 40px;
+	text-align: left;
+	text-decoration: underline ;
+}
+
+a{
+	color: whitesmoke;
+	text-decoration: none;
+}
+
+button{
+	font-size: 25px;
+	background-color: #ffeb94;
+	color: black;
+	border: solid;
+	border-radius: 15px 10px 15px 10px;
+	text-align: center;
+	padding: 30px 850px 30px 850px;
+	display: block;
+	margin: 5px auto;
+
+}
+
+
+li{
+	font-family: system-ui;
+	font-size: 30px;
+	text-align: center;
+	margin: 10px;
+}
+
+.noir {
+	background-color: #471f1f;
+	color:whitesmoke;
+}
+.blanc {
+	background-color: #a15050;
+	color: whitesmoke;
+}
+#boutton1{
+	color:black;
+}
+
+#boutton2{
+	color:black;
+}
+#prairie {
+	width: 1024px;
+	height: 1536px;
+}
+
+iframe{
+	width: 1024px;
+	height: 576px;
+	display: block;
+	margin: auto;
+}
