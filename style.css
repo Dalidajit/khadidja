@@ -133,7 +133,7 @@ iframe{
 .bloc2 {
 	display: flex;
 	align-items: center;
-	flex-direction: row-reverse;
+	
 
 }
 .bloc2 img {
@@ -166,7 +166,7 @@ iframe{
 .bloc4 {
 	display: flex;
 	align-items: center;
-	flex-direction: row-reverse;
+
 
 }
 .bloc4 img {
