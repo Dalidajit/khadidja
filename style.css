@@ -29,7 +29,7 @@ img {
 	margin: 20px 20px;
 	display: block;
     margin: auto;
-    max-width: 100%;
+    max-width: 1024px;
     height: auto;
 }
 h2 {
@@ -84,8 +84,8 @@ li{
 
 
 iframe{
-	width: 1024px;
-	height: 576px;
+	max-width: 1024px;
+	max-height: 576px;
 	display: block;
 	margin: auto;
 }
@@ -204,7 +204,6 @@ flex-wrap: wrap;
 @media (max-width: 768px) {
   body{
     flex-direction: column;
-    text-align: center;
 	  width: 100%;
   }
 }
