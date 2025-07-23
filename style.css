@@ -97,6 +97,7 @@ iframe{
     justify-content: center ;
     font-size: 80px;
     background-color: #fbb3ca;
+flex-wrap: wrap;
 
 }
 
@@ -116,6 +117,7 @@ iframe{
 .bloc1 {
 	display: flex;
 	align-items: center;
+	flex-wrap: wrap;
 
 
 }
@@ -133,6 +135,7 @@ iframe{
 .bloc2 {
 	display: flex;
 	align-items: center;
+	flex-wrap: wrap;
 	
 
 }
@@ -150,6 +153,7 @@ iframe{
 .bloc3 {
 	display: flex;
 	align-items: center;
+	flex-wrap: wrap;
 
 }
 .bloc3 img {
@@ -166,6 +170,7 @@ iframe{
 .bloc4 {
 	display: flex;
 	align-items: center;
+	flex-wrap: wrap;
 
 
 }
@@ -182,6 +187,7 @@ iframe{
 
 .bloc5 {
 	display: flex;
+	flex-wrap: wrap;
 
 }
 .bloc5 img {
@@ -199,5 +205,6 @@ iframe{
   body{
     flex-direction: column;
     text-align: center;
+	  width: 100%;
   }
 }
